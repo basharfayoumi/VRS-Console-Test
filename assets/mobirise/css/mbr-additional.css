@@ -1890,12 +1890,12 @@ body {
   transition: 0.2s background ease-in-out;
 }
 #instagram-feed-block-n .inst__title {
-  color: #0f7699;
+  color: #ffffff;
 }
 .cid-qUmnsVJyKW {
   padding-top: 15px;
   padding-bottom: 0px;
-  background: linear-gradient(0deg, #ffffff, #ffffff);
+  background: linear-gradient(0deg, #ffffff, #c1c1c1);
 }
 .cid-qUmnsVJyKW .mbr-iconfont-social {
   font-size: 32px;
@@ -1905,5 +1905,5 @@ body {
   text-decoration: none;
 }
 .cid-qUmnsVJyKW H2 {
-  color: #0f7699;
+  color: #ffffff;
 }
