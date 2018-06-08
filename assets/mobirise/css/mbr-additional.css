@@ -1791,6 +1791,11 @@ body {
 .cid-qUg2nXCw9S .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-qUos18PDwD {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/shutterstock-529362304-2000x1125.jpg");
+}
 .cid-qUnWxYC7G0 {
   padding-top: 45px;
   padding-bottom: 0px;
@@ -1819,6 +1824,7 @@ body {
 }
 .cid-qUnWxYC7G0 .mbr-text {
   color: #767676;
+  text-align: center;
 }
 .cid-qUnWxYC7G0 .card-wrapper {
   height: 100%;
@@ -1831,8 +1837,16 @@ body {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
+.cid-qUnWxYC7G0 .card-title {
+  text-align: center;
+}
+.cid-qUorMImc6p {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/virtual-reality-headset-4460x4460-2000x1334.jpg");
+}
 .cid-qUoly9MhMx {
-  padding-top: 90px;
+  padding-top: 15px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
