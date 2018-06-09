@@ -1447,11 +1447,12 @@ body {
   background-image: url("../../../assets/images/virtual-reality-headset-4460x4460-2000x1334.jpg");
 }
 .cid-qUoZjQHbw6 {
+  padding-top: 60px;
+  padding-bottom: 60px;
   background: #ffffff;
 }
 .cid-qUoZjQHbw6 .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-qUoZjQHbw6 .video-block {
