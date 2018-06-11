@@ -1374,8 +1374,8 @@ body {
 }
 .cid-qUxlMQyhs8 {
   padding-top: 75px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
+  padding-bottom: 15px;
+  background-color: #1fb7ed;
 }
 .cid-qUxlMQyhs8 .mbr-text,
 .cid-qUxlMQyhs8 blockquote {
@@ -1383,6 +1383,10 @@ body {
 }
 .cid-qUxlMQyhs8 .mbr-text P {
   text-align: center;
+  color: #ffffff;
+}
+.cid-qUxlMQyhs8 .mbr-text DIV {
+  color: #ffffff;
 }
 .cid-qUmzcUXgRK {
   padding-top: 0px;
@@ -1413,7 +1417,7 @@ body {
 .cid-qUnWxYC7G0 {
   padding-top: 45px;
   padding-bottom: 0px;
-  background-color: #c1c1c1;
+  background-color: #1fb7ed;
 }
 .cid-qUnWxYC7G0 .card-box {
   padding: 0 2rem;
@@ -1462,7 +1466,7 @@ body {
 .cid-qUoZjQHbw6 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background: #ffffff;
+  background: #1fb7ed;
 }
 .cid-qUoZjQHbw6 .video-block {
   margin: auto;
@@ -1856,7 +1860,7 @@ body {
 .cid-qUoly9MhMx {
   padding-top: 15px;
   padding-bottom: 90px;
-  background-color: #cccccc;
+  background-color: #ffffff;
 }
 .cid-qUoly9MhMx .mbr-slider .carousel-control {
   background: #1b1b1b;
@@ -1926,7 +1930,8 @@ body {
 .cid-qUxc3fszwq {
   padding-top: 60px;
   padding-bottom: 60px;
-  background: #ffffff;
+  background: #1fb7ed;
+  background: linear-gradient(45deg, #1fb7ed, #1fb7ed);
 }
 .cid-qUxc3fszwq .video-block {
   margin: auto;
@@ -1939,7 +1944,7 @@ body {
 .cid-qUxdgz6fde {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #cccccc;
+  background-color: #ffffff;
 }
 .cid-qUxdgz6fde .mbr-slider .carousel-control {
   background: #1b1b1b;
@@ -2006,7 +2011,7 @@ body {
 .cid-qUxjYtG5vu {
   padding-top: 60px;
   padding-bottom: 60px;
-  background: #ffffff;
+  background: #1fb7ed;
 }
 .cid-qUxjYtG5vu .video-block {
   margin: auto;
@@ -2019,7 +2024,7 @@ body {
 .cid-qUxjWLG9aQ {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #cccccc;
+  background-color: #ffffff;
 }
 .cid-qUxjWLG9aQ .mbr-slider .carousel-control {
   background: #1b1b1b;
@@ -2082,9 +2087,9 @@ body {
   color: #ffffff;
 }
 .cid-qUmnsVJyKW {
-  padding-top: 15px;
+  padding-top: 30px;
   padding-bottom: 0px;
-  background: linear-gradient(0deg, #ffffff, #c1c1c1);
+  background: linear-gradient(0deg, #ffffff, #ffffff);
 }
 .cid-qUmnsVJyKW .mbr-iconfont-social {
   font-size: 32px;
@@ -2094,5 +2099,5 @@ body {
   text-decoration: none;
 }
 .cid-qUmnsVJyKW H2 {
-  color: #ffffff;
+  color: #cc2952;
 }
